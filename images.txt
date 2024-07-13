@@ -3,3 +3,5 @@ moonrailgun/tailchat
 privoce/vocechat-server
 corentinth/it-tools
 nextcloud
+neosmemo/memos
+star7th/showdoc:latest
