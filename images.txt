@@ -1,3 +1,5 @@
 dannicool/docker-wechatbot-webhook
 moonrailgun/tailchat
 privoce/vocechat-server
+corentinth/it-tools
+nextcloud
