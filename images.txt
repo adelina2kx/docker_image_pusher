@@ -1,1 +1,2 @@
-fr0tt/benotes
+postgres:16
+joplin/server:latest
