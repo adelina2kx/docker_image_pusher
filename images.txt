@@ -1,2 +1,1 @@
-postgres:16
-joplin/server:latest
+bitnami/postgresql:16.3.0
