@@ -5,3 +5,7 @@ corentinth/it-tools
 nextcloud
 neosmemo/memos
 star7th/showdoc:latest
+mongo:4
+redis:alpine
+minio/minio
+traefik:v2.1
