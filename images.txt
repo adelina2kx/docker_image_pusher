@@ -1,4 +1,1 @@
-registry.rocket.chat/rocketchat/rocket.chat:latest
-mongo
-bitnami/mongodb:5.0
-redis
+fr0tt/benotes
