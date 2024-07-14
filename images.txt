@@ -1,11 +1,4 @@
-dannicool/docker-wechatbot-webhook
-moonrailgun/tailchat
-privoce/vocechat-server
-corentinth/it-tools
-nextcloud
-neosmemo/memos
-star7th/showdoc:latest
-mongo:4
-redis:alpine
-minio/minio
-traefik:v2.1
+registry.rocket.chat/rocketchat/rocket.chat:latest
+mongo
+bitnami/mongodb:5.0
+redis
