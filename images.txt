@@ -1,1 +1,1 @@
-bitnami/postgresql:16.3.0
+binakot/franchise
