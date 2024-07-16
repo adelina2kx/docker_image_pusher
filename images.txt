@@ -1,1 +1,1 @@
-binakot/franchise
+vaultwarden/server:latest
