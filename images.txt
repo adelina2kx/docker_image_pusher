@@ -1,1 +1,3 @@
-docker.getoutline.com/outlinewiki/outline:latest
+redis
+postgres
+steveltn/https-portal
