@@ -1,1 +1,1 @@
-vaultwarden/server:latest
+docker.getoutline.com/outlinewiki/outline:latest
