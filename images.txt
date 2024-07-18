@@ -1,1 +1,2 @@
-appflowy/appflowy:latest
+archlinux/archlinux:base-devel
+archlinux/archlinux
