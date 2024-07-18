@@ -1,1 +1,1 @@
-dockette/adminer
+apache/dolphinscheduler-standalone-server:3.2.1
