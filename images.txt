@@ -1,1 +1,1 @@
-jgraph/drawio
+appflowy/appflowy:latest
