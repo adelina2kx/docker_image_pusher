@@ -1,1 +1,1 @@
-kasmweb/insomnia:1.14.0-rolling
+jgraph/drawio
