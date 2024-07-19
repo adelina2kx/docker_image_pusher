@@ -1,5 +1,2 @@
-postgres:15.2-alpine
-valkey/valkey:7.2.5-alpine
-nginx:1.25.0-alpine
-node:18-alpine
-python:3.11.1-alpine3.17
+ghcr.io/plankanban/planka:latest
+postgres:14-alpine
