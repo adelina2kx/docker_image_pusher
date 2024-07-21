@@ -1,2 +1,1 @@
-ghcr.io/plankanban/planka:latest
-postgres:14-alpine
+portainer/portainer-ce:latest
