@@ -1,1 +1,3 @@
-ghcr.io/toeverything/affine-graphql:stable
+onlyoffice/documentserver:8.0.1
+jmal/jmalcloud-nginx:latest
+jmal/jmalcloud:latest
