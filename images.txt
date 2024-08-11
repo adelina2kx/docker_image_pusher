@@ -1,2 +1,2 @@
-portainer/portainer-ce
-nextcloud/all-in-one:latest
+node:lts-alpine
+nginx:alpine
