@@ -1,3 +1,2 @@
-onlyoffice/documentserver:8.0.1
-jmal/jmalcloud-nginx:latest
-jmal/jmalcloud:latest
+portainer/portainer-ce
+nextcloud/all-in-one:latest
